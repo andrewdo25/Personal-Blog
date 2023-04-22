@@ -12,10 +12,10 @@ author: An Do
 slug: "what-this-blog-is-all-about"
 
 # Date created
-date: 2021-09-10T14:50:51+07:00
+date: 2021-06-28T14:50:51+07:00
 
 # Date published. Before that day, the post can not be available
-publishDate: 2021-09-10T16:45:00+07:00
+publishDate: 2021-06-28T16:45:00+07:00
 
 # Date expired. After that day, the post cab not be available
 expiryDate:

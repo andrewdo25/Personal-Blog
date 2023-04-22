@@ -52,7 +52,7 @@ The repository above will store the content of your website, but we will create 
 
 There are multiple ways to install **Hugo**:
 
-- Install from binary releases on [Github](https://github.com/gohugoio/hugo/releases). I reccommend installing the **extended** version, because some themes will run only on this version.
+- Install from binary releases on [Github](https://github.com/gohugoio/hugo/releases). I recommend installing the **extended** version, because some themes will run only on this version.
 - On a Mac with `Homebrew` installed, run `brew install hugo`
 - On Windows with `Chocolatey`: `choco install hugo[-extended] -confirm`
 

@@ -12,10 +12,10 @@ author: An Do
 slug: "chatGPT-prompts"
 
 # Date created
-date: 2023-04-22T14:50:51+07:00
+date: 2023-04-20T14:50:51+07:00
 
 # Date published. Before that day, the post can not be available
-publishDate: 2023-04-22T16:45:00+07:00
+publishDate: 2023-04-20T16:45:00+07:00
 
 # Last modified time of the file
 lastmod: 
@@ -47,7 +47,7 @@ image: cover.jpeg
 ---
 # Introduction
 
-Welcome to the "ChatGPT Prompts" repository! This is a collection of prompt examples to be used with the ChatGPT model.
+Welcome to the "ChatGPT Prompts"! This is a collection of prompt examples to be used with the ChatGPT model.
 
 The [ChatGPT](https://chat.openai.com/chat) model is a large language model trained by [OpenAI](https://openai.com) that is capable of generating human-like text. By providing it with a prompt, it can generate responses that continue the conversation or expand on the given prompt.
 
@@ -68,33 +68,23 @@ ChatGPT response:
 
 ## ChatGPT Prompts
 
-In this repository, you will find a variety of prompts that can be used with ChatGPT. I encourage you to [add your own prompts](https://github.com/andoDsAI/chatGPT-prompts/edit/main/README.md) to the list, and to use ChatGPT to generate new prompts as well.
+In this post, you will find a variety of prompts that can be used with ChatGPT.
 
-To get started, simply clone this repository and use the prompts in the README.md file as input for ChatGPT. You can also use the prompts in this file as inspiration for creating your own.
-
-We hope you find these prompts useful and have fun using ChatGPT!
-
-**[View on GitHub](https://github.com/andoDsAI/chatGPT-prompts)**
-
-**[View on Hugging Face](https://huggingface.co/datasets/fka/awesome-chatgpt-prompts/)**
+I hope you find these prompts useful and have fun using ChatGPT!
 
 **Download ChatGPT Desktop App**: **[macOS](https://github.com/lencx/ChatGPT/releases/download/v0.10.1/ChatGPT_0.10.1_x64.dmg)** / **[Windows](https://github.com/lencx/ChatGPT/releases/download/v0.10.1/ChatGPT_0.10.1_x64_en-US.msi)** / **[Linux](https://github.com/lencx/ChatGPT/releases/download/v0.10.1/chat-gpt_0.10.1_amd64.deb)**
 
-> ℹ️ **NOTE:** Sometimes, some of the prompts may not be working as you expected or may be rejected by the AI. Please try again, start a new thread, or log out and log back in. If these solutions do not work, please try rewriting the prompt using your own sentences while keeping the instructions same.
-
 ## Want to Write Effective Prompts?
 
-I've authored a free e-book called **"The Art of ChatGPT Prompting: A Guide to Crafting Clear and Effective Prompts"**.
+**"The Art of ChatGPT Prompting: A Guide to Crafting Clear and Effective Prompts"**.
 
 📖 **[Read the free e-book](https://fka.gumroad.com/l/art-of-chatgpt-prompting)**
-
-👷‍♂️ **[Build your own GPT Prompt App](https://www.steamship.com/build?utm_source=github&utm_medium=explainer&utm_campaign=awesome_gpt_prompts&utm_id=awesome_gpt_prompts)**
 
 ## Using ChatGPT prompts
 
 **This prompts** is designed to provide an enhanced UX when working with prompts. With just a few clicks, you can easily edit and copy the prompts on the site to fit your specific needs and preferences. The copy button will copy the prompt exactly as you have edited it.
 
-<p style="text-align: center"><video width="80%" autoplay loop muted playsinline src="https://user-images.githubusercontent.com/196477/207992596-6846398c-9ee7-4d7b-8fbe-b7c9e6daad23.mov" /></p>
+<p style="text-align: center"><video width="80%" autoplay loop muted playsinline src="use-prompts.mov" /></p>
 
 # Prompts
 

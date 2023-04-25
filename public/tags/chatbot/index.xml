@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>chatbot on An Do</title>
+    <link>https://andoDsAI.github.io/tags/chatbot/</link>
+    <description>Recent content in chatbot on An Do</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 Apr 2023 14:50:51 +0700</lastBuildDate><atom:link href="https://andoDsAI.github.io/tags/chatbot/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ChatGPT Prompts</title>
+      <link>https://andoDsAI.github.io/p/chatgpt-prompts/</link>
+      <pubDate>Thu, 20 Apr 2023 14:50:51 +0700</pubDate>
+      
+      <guid>https://andoDsAI.github.io/p/chatgpt-prompts/</guid>
+      <description>Introduction Welcome to the &amp;ldquo;ChatGPT Prompts&amp;rdquo;! This is a collection of prompt examples to be used with the ChatGPT model.
+The ChatGPT model is a large language model trained by OpenAI that is capable of generating human-like text. By providing it with a prompt, it can generate responses that continue the conversation or expand on the given prompt.
+What is the prompt in ChatGPT? ChatGPT Prompts The &amp;ldquo;prompts&amp;rdquo; in ChatGPT refers to a sentence or a passage of text provided by the user to initiate a conversation with the system.</description>
+    </item>
+    
+  </channel>
+</rss>

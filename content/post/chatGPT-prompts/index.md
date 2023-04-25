@@ -56,7 +56,7 @@ The [ChatGPT](https://chat.openai.com/chat) model is a large language model trai
 <!-- add image -->
 ![ChatGPT Prompts](prompts.png)
 
-The "prompt" in ChatGPT refers to a sentence or a passage of text provided by the user to initiate a conversation with the system. Upon receiving the prompt, ChatGPT employs its language model to generate a response that is semantically related to the given prompt. The prompt is commonly used to initiate conversations in ChatGPT or to request ChatGPT to perform a specific task.
+The "prompts" in ChatGPT refers to a sentence or a passage of text provided by the user to initiate a conversation with the system. Upon receiving the prompt, ChatGPT employs its language model to generate a response that is semantically related to the given prompt. The prompt is commonly used to initiate conversations in ChatGPT or to request ChatGPT to perform a specific task.
 
 Examples of prompts:
 

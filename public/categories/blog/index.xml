@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on An Do</title>
+    <link>https://andoDsAI.github.io/categories/blog/</link>
+    <description>Recent content in Blog on An Do</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://andoDsAI.github.io/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cà phê thế nào là ngon?</title>
+      <link>https://andoDsAI.github.io/p/ca-phe-the-nao-la-ngon/</link>
+      <pubDate>Mon, 04 Apr 2022 19:10:13 +0700</pubDate>
+      
+      <guid>https://andoDsAI.github.io/p/ca-phe-the-nao-la-ngon/</guid>
+      <description>Một số bài viết nếu được viết bằng tiếng Việt sẽ thể hiện rõ được cảm xúc cũng như ý kiến của mình hơn (thật ra là do tiếng Anh của mình kém :&amp;gt;). Vì vậy, một số bài viết mình xin phép được viết bằng tiếng Việt, ví dụ như bài viết này.
+Chắc hẳn nhiều anh em cũng như mình, cà phê không chỉ là đồ uống, cà phê trở thành một phần không thể thiếu trong cuộc sống thường ngày.</description>
+    </item>
+    
+    <item>
+      <title>What this blog is all about?</title>
+      <link>https://andoDsAI.github.io/p/what-this-blog-is-all-about/</link>
+      <pubDate>Mon, 28 Jun 2021 14:50:51 +0700</pubDate>
+      
+      <guid>https://andoDsAI.github.io/p/what-this-blog-is-all-about/</guid>
+      <description>Some first words Sweet, my blog, is a storybook of mine that is about all aspects of my life, and knowledge I learned in a life of living (I’m not sure about that, my life is quite boring). I am a data scientist. I am excited to share my experiences and insights with you about data science, artificial intelligence, and other topics that interest me.
+Why did I name my site “Sweet”?</description>
+    </item>
+    
+  </channel>
+</rss>

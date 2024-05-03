@@ -163,5 +163,5 @@ You can also modify the theme to suit your need. All documentations is on these 
 
 Here is my work:
 
-- [The blog source code](https://github.com/andoDsAI/Personal-Blog)
-- [The Github Page repository](https://github.com/andoDsAI/andoDsAI.github.io)
+- [The blog source code](https://github.com/andrewdo25/Personal-Blog)
+- [The Github Page repository](https://github.com/andrewdo25/andrewdo25.github.io)

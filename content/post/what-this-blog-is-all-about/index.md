@@ -62,7 +62,7 @@ But there's more to life than just work, and I believe in enjoying the journey a
 
 So blogging is not the main target of this site. I have a bad memory, so writing things down is the best way to store them, and maybe it could be helpful for some people. I will mainly talk about everything in my development path.  It can be covered from casual stories when coding, some tips, hacks, and everything I learn and share with you. I want this to be a space where you can come to learn and grow, just like I am. From technical tutorials to casual stories, there will be a little bit of everything here. I believe that knowledge is power, and I want to help you unlock your full potential. I will dive deeper into the topic in the below [section](#topics-i-plan-to-cover).
 
-This site includes 3 parts: [Guidelines](https://andoDsAI.github.io/categories/guideline/), [Blogs](https://andoDsAI.github.io/categories/blog/), and [Projects](https://andoDsAI.github.io/categories/project/)
+This site includes 3 parts: [Guidelines](https://andrewdo25.github.io/categories/guideline/), [Blogs](https://andrewdo25.github.io/categories/blog/), and [Projects](https://andrewdo25.github.io/categories/project/)
 
 1. **Guideline**: My how-to on almost everything in development and life. From tips on how to live a better life to coding hacks, I will share everything I know and help you improve in all areas of your life.
 2. **Blog**: As its name suggests, it is about my personal stories. I will share my experiences and lessons learned in a fun and engaging way.

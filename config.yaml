@@ -1,4 +1,4 @@
-baseurl: https://andoDsAI.github.io
+baseurl: https://andrewdo25.github.io
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
@@ -6,7 +6,7 @@ title: An Do
 enableGitInfo: true
 
 # Change it to your Disqus shortname before using
-disqusShortname: andoDsAI
+disqusShortname: andrewdo25
 
 # GA Tracking ID
 googleAnalytics:
@@ -103,7 +103,7 @@ params:
 
     # Parameter detail can be found at https://giscus.app/
     giscus:
-      repo: andoDsAI/andoDsAI.github.io
+      repo: andrewdo25/andrewdo25.github.io
       repoID: MDEwOlJlcG9zaXRvcnkzODA5NzAxNjg=
       category: General
       categoryID: DIC_kwDOFrUkuM4CV9tg

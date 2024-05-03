@@ -45,5 +45,5 @@ else
 fi
 echo ""
 
-printf "\033[0;32mChanges are commited and push successfully! Go to https://andoDsAI.github.io to see.\033[0m\n"
+printf "\033[0;32mChanges are commited and push successfully! Go to https://andrewdo25.github.io to see.\033[0m\n"
 printf "\033[0;32mFinished!\033[0m\n"

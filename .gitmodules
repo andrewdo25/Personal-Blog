@@ -3,5 +3,5 @@
 	url = https://github.com/CaiJimmy/hugo-theme-stack/
 [submodule "public"]
 	path = public
-	url = https://github.com/andoDsAI/andoDsAI.github.io.git
+	url = https://github.com/andrewdo25/andrewdo25.github.io.git
 	branch = master

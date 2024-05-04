@@ -6,7 +6,8 @@ title: "How to Make a Github Blog"
 description: Not so hard as you think, but takes some time to play with it
 
 # Author of the article
-author: An Do
+authors: 
+    - An Do
 
 # Date created
 date: 2021-09-12

@@ -172,49 +172,50 @@ menu:
       name: Home
       url: /
       weight: 1
-      pre: home
       params:
         newTab: false
+        icon: home
 
     - identifier: blog
       name: Blog
       url: /categories/blog/
       weight: 2
-      pre: blogs
       params:
         newTab: false
+        icon: blog
 
     - identifier: project
       name: Project
       url: /categories/project/
       weight: 3
-      pre: projects
+
       params:
         newTab: false
+        icon: project
 
     - identifier: guidelines
       name: Guideline
       url: /categories/guideline/
       weight: 4
-      pre: guidelines
       params:
         newTab: false
+        icon: guideline
 
     - identifier: about
       name: About me
       url: /about
       weight: 5
-      pre: user
       params:
         newTab: false
+        icon: about
 
     - identifier: search
       name: Search
       url: /search
       weight: 6
-      pre: search
       params:
         newTab: false
+        icon: search
 
 related:
   includeNewer: true

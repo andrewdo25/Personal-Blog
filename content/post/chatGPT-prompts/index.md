@@ -6,7 +6,9 @@ title: "ChatGPT Prompts"
 description: "A collection of prompts for the ChatGPT model."
 
 # Author of the article
-author: An Do
+# Author of the article
+authors: 
+    - An Do
 
 # Appears as the tail of the output URL.
 slug: "chatGPT-prompts"

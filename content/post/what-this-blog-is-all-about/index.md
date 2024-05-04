@@ -6,7 +6,9 @@ title: "What this blog is all about?"
 description: It was a time when I forgot all things I researched, so eventually I have this idea!
 
 # Author of the article
-author: An Do
+# Author of the article
+authors: 
+    - An Do
 
 # Appears as the tail of the output URL.
 slug: "what-this-blog-is-all-about"
